@@ -41,7 +41,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Twitter** app:
 
-<img src='twitter-screenshot' title='Chosen Screenshot' width='100' alt='Chosen Screenshot' />
+<img src='twitter-screenshot.png' title='Chosen Screenshot' width='100' alt='Chosen Screenshot' />
 
 ## Video Demo
 
